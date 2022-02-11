@@ -29,7 +29,7 @@ paramiko==1.15.1
 pbr==3.0.0
 PIL==1.1.6
 ply==3.4
-protobuf==3.2.0
+protobuf==3.15.0
 pyasn1==0.1.7
 pycrypto==2.6.1
 pycurl==7.19.0
